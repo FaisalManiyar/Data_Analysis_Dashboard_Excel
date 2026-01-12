@@ -41,6 +41,12 @@ The objective of this project is to build a clean and interactive Excel dashboar
 - Lead Flow Trends: Peak activity occurred on 12/28/2025 with 66 leads, suggesting campaign or seasonal spikes that can be leveraged for future outreach.
 - Data Transparency: Missing values were flagged for enrichment, ensuring they remain part of analysis rather than being discarded.
 
+## Use Cases
+- Marketing campaign performance tracking
+- Forex interest segmentation
+- Lead quality and conversion analysis
+- Sales outreach prioritization
+
 ## Final Conclusion 
 The Meta Leads – Forex Interest Dashboard highlights that only a small fraction of leads show explicit interest in Forex, while most entries are either missing data or remain in a “Cold” status. Duplicate removal and data cleaning improved dataset integrity, but conversion rates remain low, signaling gaps in engagement and follow‑up strategies. The dashboard successfully transforms raw lead data into actionable insights, but it also reveals the need for stronger data capture and targeted outreach.
 
