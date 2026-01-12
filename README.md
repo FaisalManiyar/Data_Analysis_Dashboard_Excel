@@ -28,4 +28,10 @@ The objective of this project is to build a clean and interactive Excel dashboar
 ### Step 4: Dashboard Design
 - Used Excel PivotTables and Charts
 - Applied slicers for Forex segmentation
-- Created dynamic visuals for lead status and flo
+- Created dynamic visuals for lead status and flow
+
+## Dashboard
+<img width="1919" height="850" alt="Meta_Leads_Excel" src="https://github.com/user-attachments/assets/1af1afbe-971d-451e-bd5d-80d73f442b5e" />
+<img width="1919" height="853" alt="Meta_Leads_Excel2" src="https://github.com/user-attachments/assets/ffe9254a-2315-446f-add7-59f1975fef16" />
+
+
