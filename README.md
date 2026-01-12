@@ -3,16 +3,16 @@
 The objective of this project is to build a clean and interactive Excel dashboard that tracks lead conversions and Forex interest.
 
 ## Question (KPIs)
-- What is the flow of leads?
-- How many leads are interested in Forex?
-- What percentage of leads are not interested in Forex?
-- How many leads have missing Forex interest data?
-- What is the total number of leads processed?
-- How many actual leads vs. duplicates?
-- What is the conversion status of leads?
+1. What is the flow of leads?
+2. How many leads are interested in Forex?
+3. What percentage of leads are not interested in Forex?
+4. How many leads have missing Forex interest data?
+5. What is the total number of leads processed?
+6. How many actual leads vs. duplicates?
+7. What is the conversion status of leads?
 
-- Dashboard Interaction <a href="https://github.com/FaisalManiyar/Data_Analysis_Dashboard_Excel/blob/main/Meta_Leads_Excel.png">View Dashboard<a/>
-- Dashboard Interaction <a href="https://github.com/FaisalManiyar/Data_Analysis_Dashboard_Excel/blob/main/Meta_Leads_Excel2.png">View Dashboard<a/>
+- Dashboard Interaction -><a href="https://github.com/FaisalManiyar/Data_Analysis_Dashboard_Excel/blob/main/Meta_Leads_Excel.png">View Dashboard<a/>
+- Dashboard Interaction -><a href="https://github.com/FaisalManiyar/Data_Analysis_Dashboard_Excel/blob/main/Meta_Leads_Excel2.png">View Dashboard<a/>
 
 ##  Data Processing Workflow
 ### Step 1: Data Verification
